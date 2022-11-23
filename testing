@@ -1,6 +1,10 @@
 #!/bin/bash
   
   # hello wold
-  ls -l | grep -w juma
+  ls -la | cat my
+
+
+
+
   
 
